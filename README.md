@@ -4,6 +4,9 @@ E-commerce de contenido exclusivo de cine, construido con React + TypeScript + V
 
 ---
 
+## Integrantes
+- Eduardo Quiquia Soto
+
 ## Stack
 
 - **React 18** + **TypeScript** — UI y tipado estático
