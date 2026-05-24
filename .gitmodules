@@ -1,0 +1,3 @@
+[submodule "eduardo"]
+	path = eduardo
+	url = https://github.com/eduardoquiquia/cine-spoilers
